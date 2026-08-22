@@ -17,9 +17,10 @@ Building production systems while finishing my Software Engineering degree (Expe
 - Platform used by **students, companies, and administrators**
 
 **Rassa Jala — E-commerce Platform** · 2025
-- Connected **70 farmers** to local markets through digital storefronts
+- Collaborative project connecting **70 farmers** to local markets through digital storefronts
+- **My contribution:** Led architecture design, coordinated **20+ developers**, and built core modules (product catalog, order management, inventory tracking)
+- Repository transferred to [RassaJala organization](https://github.com/RassaJala) for continued development
 - Managed **100+ weekly orders** with real-time inventory tracking
-- Coordinated **20+ developers** across frontend, backend, and logistics modules
 
 **UMI — Ride-hailing Backend** · 2025
 - Go backend with **WebSockets** for real-time driver tracking
