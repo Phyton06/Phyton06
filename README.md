@@ -10,11 +10,11 @@ Building production systems while finishing my Software Engineering degree (Expe
 
 ### Experience
 
-**SIESt — Internship Management System** · 2024–2025
-- Biometric attendance system for **800+ employees** across multiple offices
-- Reduced manual tracking process from **3.5 days to real-time** automation
-- Built web platform used by **students, companies, and administrators**
-- Evolved from v1 (internship tracking) to v2 (enterprise attendance + fault tolerance)
+**SIESt — University Student System** · 2025–2026
+- **Internship Management** (May–Aug 2025): Module for tracking student internships, company partnerships, and progress reporting
+- **Per Diem Management** (Sep–Dec 2025): Module for daily allowance tracking, approvals, and payment reconciliation
+- **Biometric Attendance** (Jan–Jun 2026, v2): System for **800+ employees** across multiple offices, reducing manual tracking from **3.5 days to real-time** automation
+- Platform used by **students, companies, and administrators**
 - **Best Internship Project 2025** — recognized by the university
 
 **Rassa Jala — E-commerce Platform** · 2025
