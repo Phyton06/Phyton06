@@ -10,7 +10,7 @@ Building production systems while finishing my Software Engineering degree (Expe
 
 ### What I do
 
-- **SIESt v2** — Biometric attendance system for 800+ employees with fault tolerance and legacy DB integration. Selected as Best Internship Project 2025.
+- **SIESt** — Internship management system (Best Internship Project 2025). Evolved to v2: biometric attendance for 800+ employees, fault tolerance, legacy DB integration.
 - **Rassa Jala** — E-commerce platform connecting 70 farmers to markets. Led 20+ developers.
 - **UMI** — Ride-hailing backend with Go, PostGIS spatial queries, JWT/OTP auth, trip state machine.
 - **BolsaLaboral** — AI-powered job matching platform. 3rd place Hackathon DITI 2026. Led team of 5.
