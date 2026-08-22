@@ -11,11 +11,10 @@ Building production systems while finishing my Software Engineering degree (Expe
 ### Experience
 
 **SIESt — University Student System** · 2025–2026
-- **Internship Management** (May–Aug 2025): Module for tracking student internships, company partnerships, and progress reporting
+- **Internship Management** (May–Aug 2025): Module for tracking student internships, company partnerships, and progress reporting. **Best Internship Project 2025**
 - **Per Diem Management** (Sep–Dec 2025): Module for daily allowance tracking, approvals, and payment reconciliation
 - **Biometric Attendance** (Jan–Jun 2026, v2): System for **800+ employees** across multiple offices, reducing manual tracking from **3.5 days to real-time** automation
 - Platform used by **students, companies, and administrators**
-- **Best Internship Project 2025** — recognized by the university
 
 **Rassa Jala — E-commerce Platform** · 2025
 - Connected **70 farmers** to local markets through digital storefronts
