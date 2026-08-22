@@ -18,7 +18,7 @@ Building production systems while finishing my Software Engineering degree (Expe
 
 **Rassa Jala — E-commerce Platform** · 2025
 - Collaborative project connecting **70 farmers** to local markets through digital storefronts
-- **My contribution:** Led architecture design, coordinated **20+ developers**, and built core modules (product catalog, order management, inventory tracking)
+- **My contribution:** Co-designed database schema, defined tech stack (Go + Angular), built project architecture and folder structure, set up CI/CD with branch protection, created development scripts with pre-start tests, and established agile workflow (6-week sprints, code review process, PR conventions). Mentored **20+ developers** on AI-assisted development and best practices.
 - Repository transferred to [RassaJala organization](https://github.com/RassaJala) for continued development
 - Managed **100+ weekly orders** with real-time inventory tracking
 
